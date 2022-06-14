@@ -1,8 +1,4 @@
 # Hey there!
 I'm Kiran ✋
 
-
-
-### Some stats 📊
-
-[<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=luna_4444">](https://github.com/luna-4444)
+[![wakatime](https://wakatime.com/badge/user/b313e539-bb67-453c-95dc-8fcab4d58776.svg)](https://wakatime.com/@b313e539-bb67-453c-95dc-8fcab4d58776)
